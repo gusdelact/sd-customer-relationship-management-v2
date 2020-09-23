@@ -1,0 +1,40 @@
+{
+  "incidentRetrieveActionTaskReference" : "IRATR701162",
+  "incidentRetrieveActionResponse" : "incidentRetrieveActionResponse",
+  "incidentInstanceAnalysis" : {
+    "incidentInstanceAnalysisRecord" : {},
+    "incidentInstanceAnalysisParameters" : "incidentInstanceAnalysisParameters",
+    "incidentInstanceAnalysisReportType" : "incidentInstanceAnalysisReportType",
+    "incidentInstanceAnalysisReport" : {}
+  },
+  "incidentInstanceRecord" : {
+    "relationshipIncidentRecord" : {
+      "customerIncidentType" : "customerIncidentType",
+      "customerIncidentResolution" : "customerIncidentResolution",
+      "employeeBusinessUnitReference" : "727835",
+      "customerIncidentDescription" : "customerIncidentDescription",
+      "productServiceActivityReference" : "781829"
+    }
+  },
+  "incidentRetrieveActionTaskRecord" : {},
+  "customerRelationshipManagementPlanInstanceRecord" : {
+    "employeeBusinessUnitReference" : "732702",
+    "customerProductUsage" : "customerProductUsage",
+    "customerInsightDescription" : "customerInsightDescription",
+    "customerProductCoverage" : "customerProductCoverage",
+    "customerSalesPlan" : "customerSalesPlan",
+    "customerReference" : "717978",
+    "customerProfitability" : "customerProfitability",
+    "customerRelationshipRatingType" : "customerRelationshipRatingType",
+    "customerRelationshipRating" : "customerRelationshipRating",
+    "customerInsightType" : "customerInsightType",
+    "customerBudget" : "customerBudget",
+    "customerProductEligibilityProfile" : "customerProductEligibilityProfile"
+  },
+  "incidentInstanceReport" : {
+    "incidentInstanceReportParameters" : "incidentInstanceReportParameters",
+    "incidentInstanceReportType" : "incidentInstanceReportType",
+    "incidentInstanceReportRecord" : {},
+    "incidentInstanceReport" : {}
+  }
+}

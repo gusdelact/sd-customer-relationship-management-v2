@@ -1,0 +1,15 @@
+{
+  "developmentRequestRecordReference" : "DRRR752787",
+  "developmentRequestActionTaskReference" : "DRATR711260",
+  "developmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "developmentInstanceRecord" : {
+    "relationshipDevelopmentTask" : {
+      "customerDevelopmentTaskType" : "customerDevelopmentTaskType",
+      "customerRelationshipDevelopmentPlan" : "customerRelationshipDevelopmentPlan",
+      "customerDevelopmentWorkProduct" : "customerDevelopmentWorkProduct",
+      "customerDevelopmentTaskDescription" : "customerDevelopmentTaskDescription",
+      "customerDevelopmentTaskResult" : "customerDevelopmentTaskResult"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "incidentInstanceRecord" : {
+    "relationshipIncidentRecord" : {
+      "customerIncidentResolution" : "customerIncidentResolution"
+    }
+  },
+  "incidentCaptureActionTaskReference" : "ICATR72.0.0",
+  "incidentCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "incidentCaptureRecordReference" : "ICRR709967"
+}

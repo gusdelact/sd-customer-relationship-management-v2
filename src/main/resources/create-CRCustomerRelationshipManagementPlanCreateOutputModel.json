@@ -1,0 +1,12 @@
+{
+  "customerRelationshipManagementPlanCreateActionRecord" : {},
+  "customerRelationshipManagementPlanInstanceStatus" : "customerRelationshipManagementPlanInstanceStatus",
+  "customerRelationshipManagementPlanInstanceReference" : "CRMPIR776497",
+  "customerRelationshipManagementPlanCreateActionReference" : "CRMPCAR705386",
+  "customerRelationshipManagementPlanInstanceRecord" : {
+    "customerInsightDescription" : "customerInsightDescription",
+    "customerSalesPlan" : "customerSalesPlan",
+    "customerProfitability" : "customerProfitability",
+    "customerBudget" : "customerBudget"
+  }
+}

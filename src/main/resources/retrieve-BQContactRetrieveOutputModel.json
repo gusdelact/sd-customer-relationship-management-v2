@@ -1,0 +1,41 @@
+{
+  "contactRetrieveActionTaskRecord" : {},
+  "contactRetrieveActionTaskReference" : "CRATR734889",
+  "contactInstanceAnalysis" : {
+    "contactInstanceAnalysisParameters" : "contactInstanceAnalysisParameters",
+    "contactInstanceAnalysisRecord" : {},
+    "contactInstanceAnalysisReportType" : "contactInstanceAnalysisReportType",
+    "contactInstanceAnalysisReport" : {}
+  },
+  "contactRetrieveActionResponse" : "contactRetrieveActionResponse",
+  "contactInstanceRecord" : {
+    "customerRelationshipContactSchedule" : "customerRelationshipContactSchedule",
+    "customerRelationshipContactHistory" : "customerRelationshipContactHistory",
+    "customerRelationshipContactRecord" : {
+      "customerRelationshipContactDate" : "09-22-2018",
+      "employeeReference" : "761999",
+      "customerRelationshipContactType" : "customerRelationshipContactType",
+      "customerRelationshipContactResult" : "customerRelationshipContactResult"
+    }
+  },
+  "contactInstanceReport" : {
+    "contactInstanceReportType" : "contactInstanceReportType",
+    "contactInstanceReportParameters" : "contactInstanceReportParameters",
+    "contactInstanceReportRecord" : {},
+    "contactInstanceReport" : {}
+  },
+  "customerRelationshipManagementPlanInstanceRecord" : {
+    "employeeBusinessUnitReference" : "758246",
+    "customerProductUsage" : "customerProductUsage",
+    "customerInsightDescription" : "customerInsightDescription",
+    "customerProductCoverage" : "customerProductCoverage",
+    "customerSalesPlan" : "customerSalesPlan",
+    "customerReference" : "718037",
+    "customerProfitability" : "customerProfitability",
+    "customerRelationshipRatingType" : "customerRelationshipRatingType",
+    "customerRelationshipRating" : "customerRelationshipRating",
+    "customerInsightType" : "customerInsightType",
+    "customerBudget" : "customerBudget",
+    "customerProductEligibilityProfile" : "customerProductEligibilityProfile"
+  }
+}

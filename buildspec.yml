@@ -1,0 +1,32 @@
+version: 0.2
+
+phases:
+  install:
+      commands:
+         - echo comando de instalacion ...
+         - javac -version
+         - gradle --status
+         - docker version
+         - echo Logging in to Amazon ECR...
+         - $(aws ecr get-login --no-include-email --region $AWS_DEFAULT_REGION)
+  build:
+       commands:
+         - echo Ensamblando arrancando `date`
+         - echo Compilando un codigo...
+         - gradle -s --no-daemon --console plain build
+         - echo Generando Docker Image
+         - docker build -t $IMAGE_REPO_NAME:$IMAGE_TAG .
+         - docker tag $IMAGE_REPO_NAME:$IMAGE_TAG $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME:$IMAGE_TAG  
+
+        
+  post_build:
+       commands:
+         - echo Ensamblando completado `date`
+         - ls -R ./build/libs
+         - echo Imagen docker creada
+         - docker images
+         - docker push $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/$IMAGE_REPO_NAME:$IMAGE_TAG
+
+artifacts:
+  files:
+    -  build/libs/sd-credit-management-v2-0.0.1-SNAPSHOT.jar

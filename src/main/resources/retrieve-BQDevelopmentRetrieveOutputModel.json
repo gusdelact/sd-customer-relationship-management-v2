@@ -1,0 +1,41 @@
+{
+  "developmentInstanceReport" : {
+    "developmentInstanceReportType" : "developmentInstanceReportType",
+    "developmentInstanceReport" : {},
+    "developmentInstanceReportRecord" : {},
+    "developmentInstanceReportParameters" : "developmentInstanceReportParameters"
+  },
+  "developmentRetrieveActionTaskReference" : "DRATR774301",
+  "developmentRetrieveActionResponse" : "developmentRetrieveActionResponse",
+  "developmentInstanceAnalysis" : {
+    "developmentInstanceAnalysisReportType" : "developmentInstanceAnalysisReportType",
+    "developmentInstanceAnalysisRecord" : {},
+    "developmentInstanceAnalysisReport" : {},
+    "developmentInstanceAnalysisParameters" : "developmentInstanceAnalysisParameters"
+  },
+  "developmentRetrieveActionTaskRecord" : {},
+  "customerRelationshipManagementPlanInstanceRecord" : {
+    "employeeBusinessUnitReference" : "795925",
+    "customerProductUsage" : "customerProductUsage",
+    "customerInsightDescription" : "customerInsightDescription",
+    "customerProductCoverage" : "customerProductCoverage",
+    "customerSalesPlan" : "customerSalesPlan",
+    "customerReference" : "770215",
+    "customerProfitability" : "customerProfitability",
+    "customerRelationshipRatingType" : "customerRelationshipRatingType",
+    "customerRelationshipRating" : "customerRelationshipRating",
+    "customerInsightType" : "customerInsightType",
+    "customerBudget" : "customerBudget",
+    "customerProductEligibilityProfile" : "customerProductEligibilityProfile"
+  },
+  "developmentInstanceRecord" : {
+    "relationshipDevelopmentTask" : {
+      "employeeBusinessUnitReference" : "717852",
+      "customerDevelopmentTaskType" : "customerDevelopmentTaskType",
+      "customerRelationshipDevelopmentPlan" : "customerRelationshipDevelopmentPlan",
+      "customerDevelopmentWorkProduct" : "customerDevelopmentWorkProduct",
+      "customerDevelopmentTaskDescription" : "customerDevelopmentTaskDescription",
+      "customerDevelopmentTaskResult" : "customerDevelopmentTaskResult"
+    }
+  }
+}

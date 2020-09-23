@@ -1,0 +1,13 @@
+{
+  "contactUpdateActionTaskReference" : "CUATR774877",
+  "updateResponseRecord" : {},
+  "contactInstanceRecord" : {
+    "customerRelationshipContactRecord" : {
+      "customerRelationshipContactDate" : "09-22-2018",
+      "employeeReference" : "739201",
+      "customerRelationshipContactType" : "customerRelationshipContactType",
+      "customerRelationshipContactResult" : "customerRelationshipContactResult"
+    }
+  },
+  "contactUpdateActionTaskRecord" : {}
+}

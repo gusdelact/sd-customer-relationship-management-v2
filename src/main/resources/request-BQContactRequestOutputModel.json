@@ -1,0 +1,13 @@
+{
+  "contactRequestRecordReference" : "CRRR709302",
+  "contactRequestActionTaskRecord" : {},
+  "contactInstanceRecord" : {
+    "customerRelationshipContactRecord" : {
+      "customerRelationshipContactDate" : "09-22-2018",
+      "customerRelationshipContactType" : "customerRelationshipContactType",
+      "customerRelationshipContactResult" : "customerRelationshipContactResult"
+    }
+  },
+  "contactRequestActionTaskReference" : "CRATR778943",
+  "requestResponseRecord" : {}
+}

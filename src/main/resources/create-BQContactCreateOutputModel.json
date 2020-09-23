@@ -1,0 +1,10 @@
+{
+  "contactInstanceStatus" : "contactInstanceStatus",
+  "contactInstanceReference" : "CIR748258",
+  "contactInitiateActionReference" : "CIAR734629",
+  "contactInstanceRecord" : {
+    "customerRelationshipContactSchedule" : "customerRelationshipContactSchedule",
+    "customerRelationshipContactHistory" : "customerRelationshipContactHistory"
+  },
+  "contactInitiateActionRecord" : {}
+}

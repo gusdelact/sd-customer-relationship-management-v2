@@ -1,0 +1,14 @@
+{
+  "incidentInstanceRecord" : {
+    "relationshipIncidentRecord" : {
+      "customerIncidentType" : "customerIncidentType",
+      "customerIncidentResolution" : "customerIncidentResolution",
+      "employeeBusinessUnitReference" : "734564",
+      "customerIncidentDescription" : "customerIncidentDescription",
+      "productServiceActivityReference" : "797736"
+    }
+  },
+  "updateResponseRecord" : {},
+  "incidentUpdateActionTaskRecord" : {},
+  "incidentUpdateActionTaskReference" : "IUATR777880"
+}

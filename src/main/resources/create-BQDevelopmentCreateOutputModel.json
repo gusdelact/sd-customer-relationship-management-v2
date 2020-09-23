@@ -1,0 +1,24 @@
+{
+  "developmentInitiateActionRecord" : {},
+  "developmentInstanceStatus" : "developmentInstanceStatus",
+  "developmentInstanceReference" : "DIR748089",
+  "developmentInitiateActionReference" : "DIAR710028",
+  "customerRelationshipManagementPlanInstanceRecord" : {
+    "customerProductUsage" : "customerProductUsage",
+    "customerProductCoverage" : "customerProductCoverage",
+    "customerSalesPlan" : "customerSalesPlan",
+    "customerProfitability" : "customerProfitability",
+    "customerBudget" : "customerBudget",
+    "customerProductEligibilityProfile" : "customerProductEligibilityProfile"
+  },
+  "developmentInstanceRecord" : {
+    "relationshipDevelopmentTask" : {
+      "employeeBusinessUnitReference" : "781593",
+      "customerDevelopmentTaskType" : "customerDevelopmentTaskType",
+      "customerRelationshipDevelopmentPlan" : "customerRelationshipDevelopmentPlan",
+      "customerDevelopmentWorkProduct" : "customerDevelopmentWorkProduct",
+      "customerDevelopmentTaskDescription" : "customerDevelopmentTaskDescription",
+      "customerDevelopmentTaskResult" : "customerDevelopmentTaskResult"
+    }
+  }
+}
