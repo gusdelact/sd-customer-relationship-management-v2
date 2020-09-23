@@ -29,4 +29,4 @@ phases:
 
 artifacts:
   files:
-    -  build/libs/sd-credit-management-v2-0.0.1-SNAPSHOT.jar
+    -  build/libs/sd-customer-relationship-management-v2-0.0.1-SNAPSHOT.jar
